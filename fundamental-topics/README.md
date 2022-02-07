@@ -8,3 +8,5 @@
 6. [Component Life Cycle](/fundamental-topics/component-life-cycle/introduction.md)
 7. [List and Keys](/fundamental-topics/list-and-keys/introduction.md)
 8. [Composition vs inheritance react](/fundamental-topics/composition_vs_inheritance-react/introduction.md)
+9. [Basic Hook - useState](/fundamental-topics/basic-hook-usestate/introduction.md)
+10. [Basic Hook - useEffect](/fundamental-topics/basic-hook-useeffect/introduction.md)
