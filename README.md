@@ -6,3 +6,4 @@
 ### Thanks, [Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)
 
 1. [Fundamental Topics](/fundamental-topics/README.md)
+2. [Advanced Topics](/advanced-topics/README.md)
